@@ -1,1 +1,1 @@
-# iamrishabhkuswaha.github.io
+# rishabhkushwaha.github.io
