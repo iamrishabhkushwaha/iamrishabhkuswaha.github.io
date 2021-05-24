@@ -9,6 +9,7 @@
         "../sass/base/_darkMode.scss",
         "../sass/layout/_nav.scss",
         "../sass/layout/_blog.scss",
+        "../sass/layout/_timeline.scss ",       
         "../sass/components/_header.scss",
         "../sass/components/_about.scss",
         "../sass/components/_blog-link.scss",
